@@ -17,9 +17,10 @@ https://clone-hulu-nu.vercel.app/
 ## Lessons Learned
 
 Desenvolvendo este projeto consegui colocar algumas habildiades em prática:
-- Site responsivo para interafaces de celular/tablet/destop com [Tailwind](https://tailwind.com);
+- Site responsivo para interafaces de celular, tablet e desktop com [Tailwind](https://tailwind.com);
 - SSR com Next.js [Next.JS](https://nextjs.org/) ;
 - Requisições a uma API externa [The MovieDB API](https://www.themoviedb.org/) 
+
 ## Tech Stack
 
 **Client:** React, Next.js, TailwindCSS
